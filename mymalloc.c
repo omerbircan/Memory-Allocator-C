@@ -1,6 +1,6 @@
 /*
 * author <omer bircan>
-* omer.said.bircan@gmail.com
+* omer.bircan@hotmail.com.tr
 */
 #include "mymalloc.h"
 
