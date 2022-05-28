@@ -1,6 +1,6 @@
 /**
- * @file avl_malloc.c
- * @author Omer Said Bircan (omer.said.bircan@gmail.com)
+ * @file avl_tree.c
+ * @author Omer Bircan (omer.bircan@hotmail.com.tr)
  * @version 0.1
  * 
  * @copyright Copyright (c) 2021
